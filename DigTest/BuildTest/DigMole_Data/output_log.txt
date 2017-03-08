@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.2p1 (9360c5517afe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     1107 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.360 seconds
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\GitHub\BuildTest\DigTest\BuildTest\DigMole_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.319311 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.889287 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.271802 ms (FindLiveObjects: 0.052543 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.202271 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.625383 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.306173 ms (FindLiveObjects: 0.020938 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.195555 ms  DeleteObjects: 0.076246 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367407 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 4794.
+Total: 0.673185 ms (FindLiveObjects: 0.195555 ms CreateObjectMapping: 0.057679 ms MarkObjects: 0.411259 ms  DeleteObjects: 0.008691 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.358817 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.302222 ms (FindLiveObjects: 0.018962 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.172642 ms  DeleteObjects: 0.097580 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: edc -> priority: 1 
+  Thread -> id: 47e0 -> priority: 1 
